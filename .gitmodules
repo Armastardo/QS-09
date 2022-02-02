@@ -1,3 +1,6 @@
 [submodule "AcheronLibrary"]
 	path = AcheronLibrary
 	url = https://github.com/AcheronProject/AcheronLibrary
+[submodule "qw-footprints"]
+	path = qw-footprints
+	url = https://github.com/Armastardo/qw-footprints

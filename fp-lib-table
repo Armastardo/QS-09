@@ -14,4 +14,7 @@
   (lib (name "acheron_MXA")(type "KiCad")(uri "${KIPRJMOD}/AcheronLibrary/footprints/acheron_MXA.pretty")(options "")(descr ""))
   (lib (name "acheron_MXH")(type "KiCad")(uri "${KIPRJMOD}/AcheronLibrary/footprints/acheron_MXH.pretty")(options "")(descr ""))
   (lib (name "acheron_MXH_MetalRings")(type "KiCad")(uri "${KIPRJMOD}/AcheronLibrary/footprints/acheron_MXH_MetalRings.pretty")(options "")(descr ""))
+  (lib (name "quark")(type "KiCad")(uri "${KIPRJMOD}/qw-footprints/")(options "")(descr ""))
+  (lib (name "Beluga")(type "KiCad")(uri "${KIPRJMOD}/qw-footprints/Beluga")(options "")(descr ""))
+  (lib (name "qw new logo")(type "KiCad")(uri "${KIPRJMOD}/qw-footprints/qw new logo")(options "")(descr ""))
 )
